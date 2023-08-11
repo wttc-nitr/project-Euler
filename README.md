@@ -1,2 +1,2 @@
 # project-Euler
-project-euler (hackerrank) solutions
+project-euler (and its derivatives on hackerrank) solutions
